@@ -1,0 +1,1 @@
+cmd_/home/xnhz/linuxdriver/hello/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/xnhz/linuxdriver/hello/hello.ko /home/xnhz/linuxdriver/hello/hello.o /home/xnhz/linuxdriver/hello/hello.mod.o
