@@ -1,1 +1,0 @@
-cmd_/home/xnhz/linuxdriver/symbol_test/core/util.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/xnhz/linuxdriver/symbol_test/core/util.ko /home/xnhz/linuxdriver/symbol_test/core/util.o /home/xnhz/linuxdriver/symbol_test/core/util.mod.o
